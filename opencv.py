@@ -20,7 +20,7 @@ ROI_bottom = 300
 ROI_right = 150
 ROI_left = 350
 
-model = keras.models.load_model(r"..\team-20\model\sign_alphabets.h5")
+model = keras.models.load_model(r"\model\sign_alphabets.h5")
 # model.summary()
 
 
